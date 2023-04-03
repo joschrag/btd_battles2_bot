@@ -1,0 +1,178 @@
+[hero.quincy]
+water = false
+cost = 500
+footprint = [ 70, 60, 45,]
+path = "heros/quincy.png"
+
+[hero.gwen]
+water = false
+cost = 900
+footprint = [ 70, 60, 45,]
+path = "heros/gwen.png"
+
+[hero.obyn]
+water = false
+cost = 650
+footprint = [ 70, 60, 45,]
+path = "heros/obyn.png"
+
+[hero.striker]
+water = false
+cost = 750
+footprint = [ 70, 60, 45,]
+path = "heros/jones.png"
+
+[hero.cyber]
+water = false
+cost = 500
+footprint = [ 70, 60, 45,]
+path = "heros/cyber.png"
+
+[hero.science]
+water = false
+cost = 900
+footprint = [ 70, 60, 45,]
+path = "heros/science.png"
+
+[hero.ocean]
+water = false
+cost = 650
+footprint = [ 70, 60, 45,]
+path = "heros/ocean.png"
+
+[hero.biker]
+water = false
+cost = 750
+footprint = [ 70, 60, 45,]
+path = "heros/biker.png"
+[tower.dart]
+water = false
+cost = 200
+footprint = [ 60, 50, 40,]
+path = "towers/dart.png"
+
+[tower.boomer]
+water = false
+cost = 235
+footprint = [ 70, 60, 45,]
+path = "towers/boomer.png"
+
+[tower.ice]
+water = false
+cost = 500
+footprint = [ 60, 50, 40,]
+path = "towers/ice.png"
+
+[tower.tack]
+water = false
+cost = 280
+footprint = [ 60, 50, 40,]
+path = "towers/tack.png"
+
+[tower.bomb]
+water = false
+cost = 600
+footprint = [ 70, 60, 45,]
+path = "towers/bomb.png"
+
+[tower.glue]
+water = false
+cost = 200
+footprint = [ 70, 60, 45,]
+path = "towers/glue.png"
+
+[tower.heli]
+water = false
+cost = 1100
+footprint = [ 120, 110, 80,]
+path = "towers/heli.png"
+
+[tower.ace]
+water = false
+cost = 800
+footprint = [ 120, 110, 80,]
+path = "towers/ace.png"
+
+[tower.sub]
+water = true
+cost = 325
+footprint = [ 70, 60, 45,]
+path = "towers/sub.png"
+
+[tower.bucc]
+water = true
+cost = 500
+footprint = [ 80, 70, 55,]
+path = "towers/bucc.png"
+
+[tower.sniper]
+water = false
+cost = 350
+footprint = [ 60, 50, 40,]
+path = "towers/sniper.png"
+
+[tower.mortar]
+water = false
+cost = 750
+footprint = [ 120, 110, 80,]
+path = "towers/mortar.png"
+
+[tower.dartling]
+water = false
+cost = 750
+footprint = [ 80, 70, 55,]
+path = "towers/dartling.png"
+
+[tower.ninja]
+water = false
+cost = 500
+footprint = [ 60, 50, 40,]
+path = "towers/ninja.png"
+
+[tower.alch]
+water = false
+cost = 550
+footprint = [ 60, 50, 40,]
+path = "towers/alch.png"
+
+[tower.wiz]
+water = false
+cost = 400
+footprint = [ 70, 60, 45,]
+path = "towers/wiz.png"
+
+[tower.super]
+water = false
+cost = 2300
+footprint = [ 70, 60, 45,]
+path = "towers/super.png"
+
+[tower.druid]
+water = false
+cost = 425
+footprint = [ 70, 60, 45,]
+path = "towers/druid.png"
+
+[tower.farm]
+water = false
+cost = 1100
+footprint = [ 120, 110, 80,]
+path = "towers/farm.png"
+
+[tower.village]
+water = false
+cost = 800
+footprint = [ 120, 110, 80,]
+path = "towers/village.png"
+
+[tower.spike]
+water = false
+cost = 1200
+footprint = [ 80, 70, 55,]
+path = "towers/spike.png"
+
+[tower.engi]
+water = false
+cost = 450
+footprint = [ 70, 60, 45,]
+path = "towers/engi.png"

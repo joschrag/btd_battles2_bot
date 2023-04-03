@@ -1,0 +1,94 @@
+[glade]
+path = "map_names/glade.png"
+left_build = ""
+right_build = ""
+
+[basalt]
+path = "map_names/basalt.png"
+left_build = ""
+right_build = ""
+
+[mines]
+path = "map_names/bloontonium.png"
+left_build = ""
+right_build = ""
+
+[building]
+path = "map_names/building.png"
+left_build = ""
+right_build = ""
+
+[depot]
+path = "map_names/depot.png"
+left_build = ""
+right_build = ""
+
+[dino]
+path = "map_names/dino.png"
+left_build = ""
+right_build = ""
+
+[docks]
+path = "map_names/docks.png"
+left_build = ""
+right_build = ""
+
+[factory]
+path = "map_names/factory.png"
+left_build = ""
+right_build = ""
+
+[garden]
+path = "map_names/garden.png"
+left_build = ""
+right_build = ""
+
+[ice]
+path = "map_names/ice.png"
+left_build = ""
+right_build = ""
+
+[inflection]
+path = "map_names/inflection.png"
+left_build = ""
+right_build = ""
+
+[koru]
+path = "map_names/koru.png"
+left_build = ""
+right_build = ""
+
+[oasis]
+path = "map_names/oasis.png"
+left_build = ""
+right_build = ""
+
+[ports]
+path = "map_names/ports.png"
+left_build = ""
+right_build = ""
+
+[ruins]
+path = "map_names/ruins.png"
+left_build = ""
+right_build = ""
+
+[sands]
+path = "map_names/sands.png"
+left_build = ""
+right_build = ""
+
+[star]
+path = "map_names/star.png"
+left_build = ""
+right_build = ""
+
+[wall]
+path = "map_names/wall.png"
+left_build = ""
+right_build = ""
+
+[mayan]
+path = "map_names/mayan.png"
+left_build = ""
+right_build = ""

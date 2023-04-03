@@ -1,0 +1,22 @@
+[menu]
+battle_icon = 'menu/battle_icon.png'
+casual_battle = 'menu/casual_battle.png'
+chest_icon = 'menu/chest_icon.png'
+exit_icon = 'menu/exit_icon.png'
+heroes_icon = 'menu/heroes_icon.png'
+monkey_icon = 'menu/monkey_icon.png'
+quit_button = 'menu/quit_button.png'
+quit_menu = 'menu/quit_menu.png'
+ranked_battle = 'menu/ranked_battle.png'
+friendly_battle = 'menu/social.png'
+daily_reward = 'menu/daily_reward.png'
+
+[selection]
+copy_button = "selection/copy_code.png"
+create_friendly = "selection/create_friendly.png"
+join_friendly = "selection/join_friendly.png"
+standard_friendly = "selection/standard_friendly.png"
+start_battle = "selection/battle.png"
+ready_button = "selection/ready.png"
+confirm_button = "selection/confirm.png"
+try_again = "selection/try_again.png"
