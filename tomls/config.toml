@@ -1,3 +1,15 @@
+[general]
+[general.left]
+top = 85
+bottom = 1035
+left = 200
+right = 940
+[general.right]
+top = 85
+bottom = 1035
+left = 980
+right = 1720
+
 [menu]
 battle_icon = 'menu/battle_icon.png'
 casual_battle = 'menu/casual_battle.png'
@@ -20,3 +32,5 @@ start_battle = "selection/battle.png"
 ready_button = "selection/ready.png"
 confirm_button = "selection/confirm.png"
 try_again = "selection/try_again.png"
+name_banner = "selection/name.png"
+name_banner2 = "selection/name2.png"
